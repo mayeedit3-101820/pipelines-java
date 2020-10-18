@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/mayeedit3-101820/mayeedit3-101820-1/_apis/build/status/mayeedit3-101820-1?branchName=master)](https://dev.azure.com/mayeedit3-101820/mayeedit3-101820-1/_build/latest?definitionId=1&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
